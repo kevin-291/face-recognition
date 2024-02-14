@@ -36,7 +36,7 @@ python face-data.py
 - Enter a name for the person being captured.
 - Capture frames until satisfied.
 
-- ### Detect and recognize faces:
+- #### Detect and recognize faces:
 
 ```bash
 python face-recognition.py

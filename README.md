@@ -22,7 +22,7 @@ This project implements a real-time face recognition application using OpenCV an
 ### 2. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/face-recognition-app.git
+git clone https://github.com/kevin-291/face-recognition.git
 ```
 
 ### 3. Run the scripts:
